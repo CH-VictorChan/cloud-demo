@@ -12,5 +12,6 @@ public class UserApplication {
         System.out.println("hello world!");
         System.out.println(3.0);
         System.out.println("hot-fix");
+        System.out.println("hot-fix2");
     }
 }
