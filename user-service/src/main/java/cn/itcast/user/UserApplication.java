@@ -11,5 +11,6 @@ public class UserApplication {
         SpringApplication.run(UserApplication.class, args);
         System.out.println("hello world!");
         System.out.println(3.0);
+        System.out.println("hot-fix");
     }
 }
