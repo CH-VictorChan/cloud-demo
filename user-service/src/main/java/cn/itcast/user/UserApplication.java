@@ -15,5 +15,6 @@ public class UserApplication {
         System.out.println("master-test");
         System.out.println("hot-fix2");
         System.out.println("master test 3");
+        System.out.println("hot fix 3");
     }
 }
