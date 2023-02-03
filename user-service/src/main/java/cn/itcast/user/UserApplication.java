@@ -10,5 +10,6 @@ public class UserApplication {
     public static void main(String[] args) {
         SpringApplication.run(UserApplication.class, args);
         System.out.println("hello world!");
+        System.out.println(3.0);
     }
 }
